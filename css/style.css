@@ -1,0 +1,20 @@
+
+h1 {
+  color: orange;
+}
+.title-section{
+  text-align: center;
+}
+.title-section img {
+  border-style: solid;
+  border-color: grey;
+  border-width: 10px
+}
+p {
+  color: purple;
+  font-family: Arial;
+}
+body{
+  background-color: black;
+  color: white
+}
